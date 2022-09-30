@@ -7,3 +7,4 @@ function VerificarEntrada(){
       document.getElementById('PermissaoDeEntrada').innerText = 'Você NÃO pode entrar!'
     }
 }
+
